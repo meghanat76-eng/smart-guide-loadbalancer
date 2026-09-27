@@ -1,0 +1,2 @@
+Source_Zone,Destination_Zone,Transfer_MW,Source_Pre_MW,Source_Post_MW,Target_Pre_MW,Target_Post_MW,Line_Capacity_MW,Type,Reason
+North,East,1.13,101.13,100,64.4,65.53,35,INTRA_PARTITION,"Relieved 1.13 MW excess load via local subgrid transmission corridor to adjacent East (absorbed 1.3% of available margin)."

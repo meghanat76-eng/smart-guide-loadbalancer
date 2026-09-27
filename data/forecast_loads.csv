@@ -1,0 +1,7 @@
+Zone,Capacity_MW,Current_Load_MW,Forecast_Load_MW,Slope,Utilization_Pct,Overload_MW,Spare_MW,Status
+North,100.0,84.0,101.13,16.94,101.1,1.13,0.0,OVERLOADED
+East,90.0,61.0,64.4,3.26,71.6,0.0,25.6,NORMAL
+Central,100.0,79.0,85.33,5.86,85.3,0.0,14.67,WATCH
+West,80.0,40.0,41.87,1.63,52.3,0.0,38.13,NORMAL
+South,100.0,82.0,95.73,10.69,95.7,0.0,4.27,WATCH
+Harbor,75.0,52.0,54.0,2.0,72.0,0.0,21.0,NORMAL

@@ -1,0 +1,6 @@
+{
+  "name": "Smart Grid Load Balancer",
+  "description": "Forecasting and balancing electricity loads across interconnected microgrid zones using divide-and-conquer graph partitioning and linear regression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
